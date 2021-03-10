@@ -1,0 +1,9 @@
+2021-03-08 18:36:40,439 [main] INFO ebanking - URL is opened
+2021-03-08 18:36:41,387 [main] INFO ebanking - Entered username
+2021-03-08 18:36:41,549 [main] INFO ebanking - Entered password
+2021-03-08 18:36:43,392 [main] INFO ebanking - Login test passed
+2021-03-08 18:36:57,665 [main] INFO ebanking - User name is provided
+2021-03-08 18:36:57,840 [main] INFO ebanking - Passsword is provided
+2021-03-08 18:37:12,263 [main] INFO ebanking - providing customer details....
+2021-03-08 18:37:23,666 [main] INFO ebanking - validation started....
+2021-03-08 18:37:23,679 [main] INFO ebanking - test case passed....
